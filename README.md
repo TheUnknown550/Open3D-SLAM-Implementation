@@ -1,6 +1,5 @@
 # [Project Name]
 
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 ![Programme](https://img.shields.io/badge/Programme-Team%20Finland%20Knowledge-blue)
 
 ## 🇫🇮 About This Project
